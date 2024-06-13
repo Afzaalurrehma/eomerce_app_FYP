@@ -1,0 +1,1 @@
+ D:\\ecomerance_app\\.dart_tool\\flutter_build\\81712bfc29ddbfe08333741267e04b03\\native_assets.yaml: 
